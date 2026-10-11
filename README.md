@@ -67,11 +67,11 @@ there is a 2-4 second pause between deletions to avoid discord rate limits (howe
 
 ![запрос данных](assets/request-data-ru.png)
 
-2. распакуй архив и положи папку `messages` рядом с `main.py`
+2. распакуйте архив и положи папку `messages` рядом с `main.py`
 
 ![папка messages](assets/messages-folder.png)
 
-3. установи зависимости:
+3. установите зависимости:
 
 ```
 pip install discord.py-self
